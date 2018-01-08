@@ -8,7 +8,7 @@ Solo es necesario descargar el repositorio de datos y abrir los archivos HTML en
 
 ### Prerequisites
 
-Ninguno
+Los archivos chuckFunctions****.js son los encargados de ejecutar todas las acciones solicitadas en el laboratorio.
 
 ## Deployment
 
