@@ -34,4 +34,4 @@ Este proyecto esta bajo la licencia MIT
 
 ## Acknowledgments
 
-* Este es el trabajo de laboratorio de Francisco Noguera para la clase de omputación en el Cliente Web (ISW) correspondiente al Máster Universitario en Ingeniería de Software y Sistemas Informáticos
+* Este es el trabajo de laboratorio de Francisco Noguera para la clase de computación en el Cliente Web (ISW) correspondiente al Máster Universitario en Ingeniería de Software y Sistemas Informáticos
